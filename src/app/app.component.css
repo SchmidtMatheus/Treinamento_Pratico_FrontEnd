@@ -1,0 +1,11 @@
+table{
+  width: 100%;
+}
+
+mat-toolbar{
+  background-color: orange;
+}
+
+mat-card{
+  background-color: lightgrey;
+}
